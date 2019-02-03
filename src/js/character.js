@@ -1,5 +1,5 @@
 /**
- * <Общее описание>
+ * Character is a construction function
  * 
  * @param {string} name - character's name
  * @param {string} type - character's type
