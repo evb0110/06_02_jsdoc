@@ -2,10 +2,14 @@
   "name": "06_prototypes_constructors",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evb0110/06_02_jsdoc.git"
+  },
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
-    "test": "jest",
+    "test": "echo no tests yet",
     "lint": "eslint .",
     "build": "webpack --mode production",
     "doc": "jsdoc -c jsdoc.conf.json"
